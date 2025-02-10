@@ -9,7 +9,7 @@ The sample dataset for GSM-Ranges can be found in the `sample_dataset` folder. I
 If you wish to generate your own dataset, you can use the provided Python script. Run the following command:
 
 ```sh
-python generate_dataset.py --output_dir YOUR_OUTPUT_DIRECTORY --set_num NUMBER_OF_SETS
+python generate_dataset.py --output_dir ./YOUR_OUTPUT_DIRECTORY --set_num NUMBER_OF_SETS
 ```
 
 where:
